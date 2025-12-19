@@ -2,7 +2,7 @@
 
 A Streamlit component that implements the beautiful Untitled UI carousel design. This component provides a sleek, modern carousel with navigation buttons and indicator dots, perfect for showcasing images in your Streamlit applications.
 
-![preview.mp4](preview.gif)
+![preview.mp4](https://github.com/janduplessis883/streamlit_carousel_uui/blob/master/preview.gif?raw=true)
 
 ## Features
 
@@ -150,3 +150,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 If you encounter any issues or have questions, please [open an issue](https://github.com/janduplessis883/streamlit_carousel_uui/issues) on GitHub.
+
+<iframe
+  src="https://testing-image-carousel.streamlit.app/?embed=true"
+  style="height: 700px; width: 100%;"
+></iframe>

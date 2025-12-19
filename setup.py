@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-carousel-uui",
-    version="0.1.2",
+    version="0.1.4",
     author="Jan du Plessis",
     author_email="",
     description="A Streamlit component for displaying an Untitled UI styled carousel",
