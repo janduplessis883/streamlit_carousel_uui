@@ -2,6 +2,8 @@
 
 A Streamlit component that implements the beautiful Untitled UI carousel design. This component provides a sleek, modern carousel with navigation buttons and indicator dots, perfect for showcasing images in your Streamlit applications.
 
+![preview.mp4](preview.gif)
+
 ## Features
 
 - 🎨 Beautiful Untitled UI design
